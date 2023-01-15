@@ -1,3 +1,5 @@
+<h3 align="center">안녕하세요. 여러 가지 프로그래밍 언어 배워보고 있는 박규민입니다.</h3>
+
 <h3 align="center">📖 Studying 📖</h3>
 
 <p align="center">
