@@ -2,12 +2,14 @@
 
 📖 Studying 📖 
 
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=Csharp&logoColor=white"/>
 
 
 💻 Tools 💻
+
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual studio code&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual studio&logoColor=white"/> 
