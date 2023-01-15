@@ -8,8 +8,7 @@
 <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=Csharp&logoColor=white"/>
 </p>
 
-
-</br></br><h3 align="center">💻 Tools 💻</h3>
+</br><h3 align="center">💻 Tools 💻</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual studio code&logoColor=white"/> 
