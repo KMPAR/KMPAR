@@ -1,4 +1,5 @@
-<p align="center">여러 가지 프로그래밍 언어 배워보고 있는 박규민입니다.</p>
+<p align="center">컴퓨터 프로그래밍 언어 공부하고 있는 박규민입니다.</p>
+<p align="center">다양한 언어들과 여러 가지 프로그래밍  접해보고 싶습니다.</p>
 
 <h3 align="center">📖 Studying 📖</h3>
 
