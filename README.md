@@ -6,8 +6,6 @@
 <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=Csharp&logoColor=white"/>
 </p>
 
-<p></p>
-<p></p>
 
 <h3 align="center">💻 Tools 💻</h3>
 
