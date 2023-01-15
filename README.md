@@ -8,14 +8,13 @@
 <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=Csharp&logoColor=white"/>
 </p>
 
+<h3 align="center">💻 Tools 💻</h3>
 
-💻 Tools 💻
-
-
+<p align="center">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual studio code&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse ide&logoColor=white"/> 
-
+</p>
 
 
 
