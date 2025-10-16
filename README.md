@@ -1,4 +1,4 @@
-<p align="center">Park Gyumin</br>박규민</br>B.S. Industrial Engineering (Konkuk University)</br>B.S. Computer Science & Engineering(Konkuk University) </br>Research Interests : Graph ML/DL</p>
+<p align="center">Park Gyumin</br>박규민</br></br>B.S. Industrial Engineering (Konkuk University)</br>B.S. Computer Science & Engineering(Konkuk University) </br></br>Research Interests : Graph ML/DL</p>
 
 </br>
 
