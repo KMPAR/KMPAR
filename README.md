@@ -1,7 +1,8 @@
-<p align="center">컴퓨터 프로그래밍 공부하고 있는 박규민입니다.</br>현재 건국대학교 산업공학과 재학 중입니다.</br>다양한 언어들과 여러 가지 프로그래밍 분야를 접해보고 싶습니다.</p>
+<p align="center">Park Gyumin</br>박규민</br>B.S. Industrial Engineering (Konkuk University)</br>B.S. Computer Science & Engineering(Konkuk University </br>Research Interests : Graph ML/DL</p>
 
 </br>
 
+<!--
 <h3 align="center">📖 Studying 📖</h3>
 
 <p align="center">
@@ -17,7 +18,7 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse ide&logoColor=white"/> 
 </p>
-
+-->
 
 
 
